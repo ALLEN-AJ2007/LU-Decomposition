@@ -60,7 +60,8 @@ print(x)
 
 
 
-<img width="898" height="562" alt="Screenshot 2026-02-12 170749" src="https://github.com/user-attachments/assets/b4e4d922-ec42-4965-8bdc-6843fe62f243" />
+<img width="1272" height="362" alt="Screenshot 2026-02-12 171908" src="https://github.com/user-attachments/assets/d3748794-7eb3-465e-816b-4ba739ab0eb7" />
+
 
 
 
