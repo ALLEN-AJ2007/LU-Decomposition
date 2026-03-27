@@ -10,7 +10,7 @@ To write a program to find the LU Decomposition of a matrix.
 ## Algorithm
 
 
-#Algorithm for Program 1 (Finding L and U matrices)
+(i).Algorithm for Program 1 (Finding L and U matrices)
 
 1.Start the program.
 
@@ -29,7 +29,7 @@ To write a program to find the LU Decomposition of a matrix.
 
 
 
-#Algorithm for Program 2 (Solving system of equations using LU decomposition)
+(ii).Algorithm for Program 2 (Solving system of equations using LU decomposition)
 
 1.Start the program.
 
