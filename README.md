@@ -18,7 +18,8 @@ To write a program to find the LU Decomposition of a matrix.
 
 3.Read the input matrix A.
 
-4.Apply LU decomposition using lu(A) which returns permutation matrix P, lower triangular matrix L, and upper triangular matrix U.
+4.Apply LU decomposition using lu(A) which returns permutation matrix P, 
+lower triangular matrix L, and upper triangular matrix U.
 
 5.Print the L matrix.
 
